@@ -24,32 +24,28 @@ const data = [
   {
     avatar: AVTR1,
     name: "Anthoy Daniyan",
-    review: "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni accusantium repellendus suscipit quasi veritatis iusto. Aliquam modi  aspernatur numquam inventore dolor natus tempora itaque excepturi voluptatem, sequi iure placeat minus.     ",
+    review: " Working with Moses was an absolute pleasure. 
+      Their ability to seamlessly integrate faith and technology into their work is truly inspiring.
+      Their dedication to delivering high-quality results ahead of schedule is commendable.     ",
   },
 
   {
     avatar: AVTR2,
     name: "Favour Ayooluwa",
-    review: "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni accusantium repellendus suscipit quasi veritatis iusto. Aliquam modi  aspernatur numquam inventore dolor natus tempora itaque excepturi voluptatem, sequi iure placeat minus.  ",
+    review: "   I had the pleasure of collaborating with Moses on a project and was impressed by their strong
+      work ethic and expertise in full stack development. Their proficiency in front-end development tools such as JavaScript, 
+      React, and NodeJS were instrumental in achieving our project goals.  ",
   },
 
   {
-    avatar: AVTR3,
-    name: "Tolulope Abolarinwa",
-    review: "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni accusantium repellendus suscipit quasi veritatis iusto. Aliquam modi  aspernatur numquam inventore dolor natus tempora itaque excepturi voluptatem, sequi iure placeat minus.  ",
-  },
-
+    
     {
     avatar: AVTR4,
-    name: "Jerremiah Adeyemi",
-    review: "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni accusantium repellendus suscipit quasi veritatis iusto. Aliquam modi  aspernatur numquam inventore dolor natus tempora itaque excepturi voluptatem, sequi iure placeat minus.  ",
+    name: "Jeremiah Adeyemi",
+    review: "  As a project manager, I can attest to Adeyemi's exceptional skills as a Full Stack Developer.
+      Their commitment to bringing innovative ideas to life while maintaining a focus on design, 
+      accessibility, and well-structured code sets them apart in the industry.  ",
   },
-  {
-    avatar: AVTR5,
-    name: "Feyikemi Mariam",
-    review: "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni accusantium repellendus suscipit quasi veritatis iusto. Aliquam modi  aspernatur numquam inventore dolor natus tempora itaque excepturi voluptatem, sequi iure placeat minus.  ",
-  },
- 
 ];
 
 const Testimonial = () => {
